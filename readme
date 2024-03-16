@@ -1,0 +1,18 @@
+
+Fusion et tri de deux tableaux en C 
+Ce code en langage C permet de fusionner deux tableaux A et B, en les triant dans l'ordre croissant, pour former un nouveau tableau FUS.
+
+Fonctionnalités:
+
+Demande à l'utilisateur la taille et les éléments des tableaux A et B.
+Fusionne et trie les éléments des tableaux A et B dans le tableau FUS. ➡️ ⬆️
+Gère les cas où les tableaux A et B ont des tailles différentes. ⚖️
+Affiche le tableau FUS résultant.
+Contraintes:
+
+Taille maximale des tableaux A, B et FUS : 50 éléments (définie par la constante nbMAX).
+Les éléments des tableaux doivent être compris entre 0 et 20.
+Utilisations:
+
+Fusionner et trier deux tableaux de nombres.
+Applications diverses en programmation.
